@@ -42,5 +42,5 @@ Valid <fractal_name> values are Julia, Mandelbrot.
 Valid <Julia_coordinates> are valid Julia sets.
 exapmle: 
 - ./fractol Julia
-- ./fractol Julia 0.79 0.15
+- ./fractol Julia  -1.77029598415682387070596815828735774662104581 -0.005852576008784477443909236300355828076899285495 (This command allows you to zoom into a specific part of the Julia set, revealing intricate and endlessly repeating patterns)
 - ./fractol Mandelbrot
