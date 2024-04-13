@@ -35,6 +35,7 @@ make
 4. Usage
 Execute the program with the name of the desired fractal as a parameter. If no parameter is provided or the parameter is invalid, the program will display a list of available options and exit.
 
+![image](https://github.com/Beata12/fract-ol/assets/38575612/d6df8098-ceac-4753-86b0-a7945202b29f)
 
 ./fractol <fractal_name>
 ./fractol <fractal_name> <Julia_coordinates>
@@ -43,4 +44,8 @@ Valid <Julia_coordinates> are valid Julia sets.
 exapmle: 
 - ./fractol Julia
 - ./fractol Julia  -1.77029598415682387070596815828735774662104581 -0.005852576008784477443909236300355828076899285495 (This command allows you to zoom into a specific part of the Julia set, revealing intricate and endlessly repeating patterns)
+- ![image](https://github.com/Beata12/fract-ol/assets/38575612/849aa7f8-3065-42e4-852d-04de457cecf8)
+
 - ./fractol Mandelbrot
+- ![image](https://github.com/Beata12/fract-ol/assets/38575612/f00ac992-7e07-4d90-9745-743c703447ef)
+
